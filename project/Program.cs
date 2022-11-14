@@ -37,18 +37,18 @@ void lessThan3Char(int length)
             newLength += 1;
         }
     }
-    string[] finalArray = new string[newLength];
+    string[] resultArray = new string[newLength];
     int newIndex = 0;
     for (int i = 0; i < startArr.Length; i++)
     {
         if (startArr[i].Length <= 3)
         {
-            finalArray[newIndex] = startArr[i];
+            resultArray[newIndex] = startArr[i];
             newIndex++;
         }
     }
     Console.WriteLine("Финальный массив: ");
-    PrintArray(finalArray);
+    PrintArray(resultArray);
 }
 
 
