@@ -19,7 +19,7 @@
 
 > **fillArray** Заполняет массив значениями введеными пользователем в терминале! Количество строк будет равно >  значению **length**
 
-![fillArr](https://github.com/SivolonskySergey/gbEkzam1/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.jpg)
+![fillArr](https://github.com/SivolonskySergey/gbEkzam1/blob/main/pictures/Screenshot_2022-11-14_23-59-01.png)
 
 После заполнения массива происходит формирование длины нового отсортированного массива **newLength**. С помощью цикла **for** на основании того сколько строк начального массива имеют длину меньше либо равную **maxLength**.
 
