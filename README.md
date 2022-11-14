@@ -1,7 +1,7 @@
 # gbEkzam1
 # **Фильтрация массива строк в зависимости от длины**
 ![Блок-схема алгоритма](https://www.flickr.com/photos/196935730@N02/52500411410/in/dateposted-public/)
-
+![sd](https://github.com/SivolonskySergey/gbEkzam1/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.jpg)
 ## Алгоритм
 
 На вход функция **lessThan3Char(int length, int maxLength = 3)** принимает:
