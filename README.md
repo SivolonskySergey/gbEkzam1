@@ -1,2 +1,2 @@
 # gbEkzam1
-[![block-schema)](https://photos.google.com/photo/AF1QipPXmnMQWjS0cPUzIZ6P0vwVfRINuTkq2uTDSqPT)
+![block-schema)](https://www.flickr.com/photos/196935730@N02/52500411410/in/dateposted-public/)
