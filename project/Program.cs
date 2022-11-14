@@ -17,7 +17,7 @@ void fillArray(int length, string[] arrToFill)
     }
 }
 
-void lessThan3Char(int length)
+void lessThan3Char(int length, int maxLength = 3)
 {
     Console.WriteLine($"Введите {length} слов: ");
 
@@ -32,7 +32,7 @@ void lessThan3Char(int length)
     int newLength = 0;
     for (int i = 0; i < startArr.Length; i++)
     {
-        if (startArr[i].Length <= 3)
+        if (startArr[i].Length <= maxLength)
         {
             newLength += 1;
         }
@@ -41,7 +41,7 @@ void lessThan3Char(int length)
     int newIndex = 0;
     for (int i = 0; i < startArr.Length; i++)
     {
-        if (startArr[i].Length <= 3)
+        if (startArr[i].Length <= maxLength)
         {
             resultArray[newIndex] = startArr[i];
             newIndex++;
