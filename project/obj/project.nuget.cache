@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIy2H1P/qR4mFg2aT2DrToDQ1FO6K2h++VkB9HTL3/JR6m0ljHd/WIR4satInnCTDdPxiZQAUqQkNVwlv16img==",
+  "success": true,
+  "projectFilePath": "/home/sergey/Documents/Ekzam1/project/project.csproj",
+  "expectedPackageFiles": [
+    "/home/sergey/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
