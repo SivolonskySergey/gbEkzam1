@@ -1,2 +1,7 @@
 # gbEkzam1
-[block-schema](https://www.flickr.com/photos/196935730@N02/52500411410/in/dateposted-public/)
+## **Фильтрация массива строк в зависимости от длины**
+[Блок-схема алгоритма](https://www.flickr.com/photos/196935730@N02/52500411410/in/dateposted-public/)
+
+# Алгоритм
+
+
